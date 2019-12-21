@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+                        @copyright = LoveViewTool::Renderer.copyright 'Love Mercy', 'All rights reserved'
+
+```
 
 ## Development
 
